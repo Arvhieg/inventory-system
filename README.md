@@ -37,7 +37,6 @@ It was created as a **final project** for the course:
 - This project was developed as a **first-year, first Python project**.  
   It is not actively maintained and was uploaded to GitHub for portfolio and progress tracking purposes.
 - All user data is stored in memory during runtime. To import items, use the CSV import feature from the menu.
-- For questions, feedback, or suggestions, feel free to open an issue or contact the repository owner.
 
 ---
 
