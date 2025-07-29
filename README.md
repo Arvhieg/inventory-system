@@ -24,7 +24,7 @@ It was created as a **final project** for the course:
 
 1. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install -r (library used)
    ```
 
 2. **Run the program:**
